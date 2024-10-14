@@ -270,10 +270,6 @@
      ```bash
      !pip install trl
      ```
-   - **Purpose**: 
-     - Installs the `trl` (Transformers Reinforcement Learning) library. This package enables reinforcement learning with Hugging Face models and is particularly useful for fine-tuning tasks involving reward-based optimization.
-   - **Why**: The `trl` library is needed for advanced fine-tuning techniques, particularly when exploring reinforcement learning for language models.
-
 
 ---
 
