@@ -25,7 +25,7 @@ This notebook was developed and executed on Kaggle, using two T4 GPUs. The prima
 2. **Environment Variable Setup**:
    - Hugging Face Token Setup:
      ```python
-     os.environ['HUGGINGFACE_TOKEN'] = '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'
+     os.environ['HUGGINGFACE_TOKEN'] = 'huggingface-api-key'
      ```
      - **Purpose**: Sets the Hugging Face token as an environment variable to authenticate and download models or datasets from the Hugging Face hub.
 
