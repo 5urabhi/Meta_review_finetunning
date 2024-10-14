@@ -55,7 +55,7 @@
    - **Command**: 
      ```python
      import os
-     os.environ['HUGGINGFACE_TOKEN'] = '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'
+     os.environ['HUGGINGFACE_TOKEN'] = 'huggingface-api-key'
      ```
    - **Purpose**: Sets the Hugging Face authentication token as an environment variable. This token allows the notebook to access models and datasets from the Hugging Face Hub.
 
