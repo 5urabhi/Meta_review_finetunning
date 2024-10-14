@@ -331,10 +331,9 @@
 
 ### 23. **Memory Error During Training (Markdown Cell)**:
    - **Content**:
-     > "As we can see we ran out of memory during training."
+     > "We ran out of memory during training."
    - **Purpose**: 
      - This markdown cell comments on the memory issues encountered during training, specifically a CUDA out-of-memory error.
-   - **Why**: Memory constraints are a common issue when fine-tuning large models, even with optimizations like 4-bit quantization. This error highlights the need for careful memory management when training models on limited hardware.
-
+   
 ---
 
