@@ -4,7 +4,7 @@
 
 ### 1. **Introduction (Markdown Cell)**:
    - **Content**: 
-     > "In this code we are using Mixtral with LORA on A100 GPU. I was still not able to train the model due to memory constraints. However, this code showcases my understanding and implementation of a quantized model along with LORA."
+     > "In this code we are using Mixtral with LORA on kaggle notebook. I was not able to train the model due to memory constraints. However, this code showcases my understanding and implementation of a quantized model along with LORA."
    - **Purpose**: This introductory markdown explains that the notebook attempts to train a Mixtral model with LORA on an A100 GPU. However, due to memory limitations, the model couldn't be fully trained, but the notebook highlights the user's approach to handling quantized models.
 
 ---
